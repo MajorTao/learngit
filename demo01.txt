@@ -1,3 +1,2 @@
-Git is a version control system.大撒旦撒的倒萨倒萨
-Git is free software
-.撒旦阿萨德 爱尚的
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
